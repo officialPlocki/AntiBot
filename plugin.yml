@@ -1,0 +1,5 @@
+name: AntiBot
+author: plocki
+version: 1.0
+main: de.plocki.antibot.main.Main
+commands:
